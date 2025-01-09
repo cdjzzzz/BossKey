@@ -1,0 +1,3 @@
+[submodule "ThirdParty/build-deps"]
+	path = ThirdParty/build-deps
+	url = https://github.com/LizardByte/build-deps.git
